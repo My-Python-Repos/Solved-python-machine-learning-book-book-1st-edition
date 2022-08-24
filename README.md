@@ -1,7 +1,7 @@
 # Python Machine Learning book code repository
 
 
-[![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/python-machine-learning-reader-discussion-board)
+
 
 ---
 
